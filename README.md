@@ -1,4 +1,4 @@
-## SuperShop - Single Vendor Ecommerce Application
+## MokaShop - Single Vendor Ecommerce Application
 
 
 ### FrontEnd Application Folder Structure
